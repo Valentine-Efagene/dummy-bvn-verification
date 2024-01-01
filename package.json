@@ -1,0 +1,24 @@
+{
+  "name": "dummy-bvn-verification",
+  "version": "1.0.0",
+  "description": "Dummy server for BVN endpoint",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --routes routes.json --no-cors=false"
+  },
+  "keywords": [
+    "bvn",
+    "json",
+    "json-server"
+  ],
+  "author": "Valentine Efagene",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valentine-Efagene/dummy-bvn-verification.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Valentine-Efagene/dummy-bvn-verification/issues"
+  },
+  "homepage": "https://github.com/Valentine-Efagene/dummy-bvn-verification#readme"
+}

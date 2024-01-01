@@ -1,0 +1,4 @@
+{
+  "/api/v1/kyc/bvn": "/bvn-pass",
+  "/api/v1/kyc/bvn-fail": "/bvn-fail"
+}

@@ -1,0 +1,17 @@
+{
+  "bvn-pass": {
+    "entity": {
+      "bvn": {
+        "value": "23456789012",
+        "status": true
+      },
+      "first_name": {
+        "confidence_value": 100,
+        "status": true
+      }
+    }
+  },
+  "bvn-fail": {
+    "error": "BVN not found"
+  }
+}
